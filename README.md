@@ -1,3 +1,22 @@
+# code-challenge5
+# Description
+Hello there! im making a browser where card of bots is appearing in user interface.One can has an option of deleting a card of bot or has an option of clicking the card he likes and it appears on his/her army bots as his army collection.
+
+Setup/Installation Requirements
+Clone the repo {git clone <git@github.com:AishaSalaam1/Bots.git}
+
+and run the index.html file with live server vs code extension
+
+Live link
+Technologies Used
+HTML
+CSS
+Javascript
+React
+Author
+By Aisha Hussein
+License
+This is under the MIT license Copyright (c) 2023 Milhan Omar
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
